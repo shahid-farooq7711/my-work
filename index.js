@@ -20,7 +20,7 @@ console.log('Helo Pakistan');
 //     if  (i % 2 !== 0) console.log(i);
 //     i++;
 // }
-yygf yfb f f
+yygf yfb f f gh zaib github
 // // do while 
 // let i= 9 ;
 // do {
