@@ -20,24 +20,24 @@ console.log('Helo Pakistan');
 //     if  (i % 2 !== 0) console.log(i);
 //     i++;
 // }
-
+yygf yfb f f
 // // do while 
 // let i= 9 ;
 // do {
 //     if  (i % 2 !== 0) console.log(i);
 //    i++;  
 // } while(i<=5);  
-
 // object 
-let circle= {
-    radious:1,
-    location: {
-        x:1,
-        y:1
-    },
-    visible: true,
-    draw: function() {
-console.log('draw');
-}
-};
-circle.draw();
+// let circle= {
+//     radious:1,
+//     location: {
+//         x:1,
+//         y:1
+//     },
+//     visible: true,
+//     draw: function() {
+// console.log('draw');
+// }
+// };
+// circle.draw();
+ 
